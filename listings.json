@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/golden-showers-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/hello-world/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": []
+  }
+]
