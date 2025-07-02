@@ -14,4 +14,3 @@ We are an award-winning preschool always ready to provide the best for your chil
 <a href="/admissions/index.qmd" class="btn btn-primary">Get Admission</a>
 
 :::
-:::

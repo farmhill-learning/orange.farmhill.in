@@ -1,12 +1,13 @@
 ---
-title: Hello, World!
+title: Admissions Open!
 # subtitle: subtitle of the post
-date: 2020-06-07
+date: 2025-06-07
 categories:
   - general
 # author: Venu GVGK
 page-layout: article
+image: orange-pre-toddler.jpg
 ---
 
-Sample blog post!
+We are open for admissions for the year 2025-26! 
 

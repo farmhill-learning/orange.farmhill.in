@@ -24,21 +24,29 @@ hero-color: white
 
 ::: {.g-col-12 .g-col-md-3}
 ### Infant Care
+![](images/orange-infant-room.jpg)
+
 Whether eating, playing, sleeping or simply fiddling around, your child is never left unattended. Trained and compassionate nurses work tirelessly towards creating a warm and tender atmosphere for your baby.
 :::
 
 ::: {.g-col-12 .g-col-md-3}
 ### Pre-Toddler
+![](images/orange-pre-toddler.jpg)
+
 Our contemporary classrooms are thoughtfully designed to meet the needs of pre-toddlers. An enriching daily schedule encourages curiosity with engaging activities like storytelling, puppet shows, indoor and outdoor play, dance and music.
 :::
 
 ::: {.g-col-12 .g-col-md-3}
 ### Kindergarten
+![](images/orange-kinder-garden.jpg)
+
 Our Multiple Intelligence based curriculum gives your child autonomy, helps kids learn by using 8 different senses and skills. We lay a strong foundation for lifetime of learning and discovery.
 :::
 
 ::: {.g-col-12 .g-col-md-3}
 ### Day Care
+![](images/orange-day-care.jpeg)
+
 Our daycare is your child's second home! We offer you peace of mind. We help children socialize, finish their home work or spend time in extra curricular activities.
 :::
 
