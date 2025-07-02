@@ -9,5 +9,5 @@ listing:
   date-format: "MMM YYYY"
   page-size: 96
 #image: preview.jpg
-description: "Life at Farmhill in pictures!"
+description: "Orange in Pictures!"
 ---

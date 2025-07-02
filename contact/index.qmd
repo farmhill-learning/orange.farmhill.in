@@ -9,27 +9,25 @@ page-layout: full
         <div class="grid">
             <div class="g-col-md-6 bg-light p-3 my-2">
                 <div><strong><i class="bi bi-envelope"></i> Email</strong></div>
-                <span>hello@farmhill-learning.org</span>
+                <span>admin@orangeschools.in</span>
             </div>
             <div class="g-col-md-6 bg-light p-3 my-2">
                 <div><strong><i class="bi bi-telephone"></i> Phone</strong></div>
-                <span>+91 84310 32239</span>
+                <span>+91 8884000982</span>
             </div>
         </div>
 
         <div class="bg-light p-3 my-2">
             <div><strong><i class="bi bi-geo-alt"></i> Address</strong></div>
             <div>
-                <strong>Farm Hill learning</strong><br>
-                Chennenapalli,<br>
-                Near Medupalli Shoolagiri,<br>
-                Krishnagiri District,<br>
-                Tamil Nadu
+                <strong>Orange International Pre-School and Daycare</strong><br>
+                Site 485,1st B Main Rd,<br>
+                B Block, AECS Layout,<br>
+                Kundalahalli, Bengaluru, Karnataka-37<br>
             </div>
         </div>
-
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3893.419103547106!2d78.03033297592086!3d12.62048802247721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3badd3915c45edbf%3A0x84400e350fc71068!2sFarm%20Hill%20Learning!5e0!3m2!1sen!2sin!4v1729692899700!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.1055046655406!2d77.71226697507642!3d12.96510018734963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae122fbc67c71b%3A0x44be0e9071f4cd0e!2sOrange%20International%20Preschool%20%7C%20Best%20Preschool%20In%20AECS%20Layout%20%7C%20Best%20Daycare%20In%20AECS%20Layout!5e0!3m2!1sen!2sin!4v1751466914850!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        
 
     </div>
     <div class="g-col-12 g-col-md-6">

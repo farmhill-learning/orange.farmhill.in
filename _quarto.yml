@@ -10,7 +10,7 @@ project:
     - gallery/*/*.qmd
 
 website:
- 
+  title: Orange International Pre-School and Daycare  
   description: "A place for children to learn, play and grow together."
   open-graph: true
   twitter-card: true
@@ -20,32 +20,28 @@ website:
     background: white
     right:
         - admissions/index.qmd
-        - about/index.qmd
         - gallery/index.qmd
         - blog/index.qmd
         - contact/index.qmd
+        - about/index.qmd
     tools:
       - icon: whatsapp
-        href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
+        href: "https://wa.me/918884000982?text=I%27m+interested+to+know+more+about+Orange."
       - icon: instagram
-        href: "https://www.instagram.com/farmhill.learning"
+        href: "https://www.instagram.com/orangeschools"
       - icon: facebook
-        href: https://facebook.com/farmhilllearning
+        href: https://facebook.com/Orangedaycare
 
   page-footer:
     border: true
-    left: |
-      _Farm Hill Learning Community_ is an initiative of [_Farm Hill Education Trust_](https://farmhill.in).<br>
-      Other initiatives include [_Sambhavam Center for Autism_](https://sambhavam-autism.com/)
-      and [_Subodha Learning Community_](https://subodha.farmhill.in).
-
+    
     right:
       - icon: whatsapp
-        href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
+        href: "https://wa.me/8884000982?text=I%27m+interested+to+know+more+about+Orange."
       - icon: instagram
-        href: "https://www.instagram.com/farmhill.learning"
+        href: "https://www.instagram.com/orangeschools"
       - icon: facebook
-        href: https://facebook.com/farmhilllearning
+        href: https://facebook.com/Orangedaycare
 
 
 
