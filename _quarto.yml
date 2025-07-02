@@ -10,24 +10,20 @@ project:
     - gallery/*/*.qmd
 
 website:
-  title: "Orange International Pre-School and Daycare "
+ 
+  description: "A place for children to learn, play and grow together."
   open-graph: true
   twitter-card: true
   site-url: https://orange.farmhill.in/
   navbar:
-    background: primary
-    left:
-      - text: "About"
-        menu:
-          - about/index.qmd
-          - people/index.qmd
-      - text: "Updates"
-        menu:
-        - blog/index.qmd
+    logo: images/orange-logo.png   
+    background: white
+    right:
+        - admissions/index.qmd
+        - about/index.qmd
         - gallery/index.qmd
-      - support-us/index.qmd
-      - join-us/index.qmd
-      - contact/index.qmd
+        - blog/index.qmd
+        - contact/index.qmd
     tools:
       - icon: whatsapp
         href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
