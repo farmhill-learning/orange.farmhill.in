@@ -10,8 +10,6 @@ project:
     - gallery/*/*.qmd
 
 website:
-  title: Orange International Pre-School and Daycare  
-  description: "A place for children to learn, play and grow together."
   open-graph: true
   twitter-card: true
   site-url: https://orange.farmhill.in/
